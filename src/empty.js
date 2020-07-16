@@ -1,0 +1,1 @@
+// empty entry for copy-only webpack config
